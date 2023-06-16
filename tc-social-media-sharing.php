@@ -3,7 +3,7 @@
  * Plugin Name: Social Media Sharing by Taupecat Studios
  * Plugin URI: http://taupecatstudios.com
  * Description: Adds social media sharing buttons to posts and pages.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Taupecat Studios
  * Author URI: http://taupecatstudios.com
  *

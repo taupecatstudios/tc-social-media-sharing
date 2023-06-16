@@ -1,0 +1,10 @@
+{
+  "name": "taupecatstudios/tc-social-media-sharing",
+  "description": "My own plugin for adding social media sharing to a WordPress site.",
+  "version": "1.0.0",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.4",
+    "composer/installers": "~1.0"
+  }
+}
